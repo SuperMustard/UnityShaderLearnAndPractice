@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1e6270d647f229409eea546d8545ed7
+timeCreated: 1487054140
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - oldFilmShader: {fileID: 4800000, guid: 979fa65505fec9244b7908f11debe2fe, type: 3}
+  - vignetteTexture: {instanceID: 0}
+  - scratchesTexture: {instanceID: 0}
+  - dustTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

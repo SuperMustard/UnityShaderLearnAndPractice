@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b06b83e4c6088a549a8578588d5f0477
+timeCreated: 1487043437
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - oldFilmShader: {fileID: 4800000, guid: 5de45f73fcd34574fb996858609053c8, type: 3}
+  - vignetteTexture: {fileID: 2800000, guid: 1dfe350705720e74c846bffd4a541b7f, type: 3}
+  - scratchesTexture: {fileID: 2800000, guid: 219ad46e9c5b40142bd6b25e07f2c752, type: 3}
+  - dustTexture: {fileID: 2800000, guid: 219ad46e9c5b40142bd6b25e07f2c752, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
