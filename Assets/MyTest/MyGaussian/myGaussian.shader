@@ -60,11 +60,10 @@
 		ENDCG
 		Pass {
 		NAME "GAUSSIAN_BLUR"
-
 			CGPROGRAM
 
-#pragma vertex vertBlur
-#pragma fragment fragBlur
+			#pragma vertex vertBlur
+			#pragma fragment fragBlur
 
 			ENDCG
 	}
